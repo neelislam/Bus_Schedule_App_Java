@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Bus Schedule</string>
+    <string name="bus_number">Bus Number</string>
+    <string name="time_e_g_10_00_am">Time (e.g., 10:00 AM)</string>
+    <string name="add_schedule">Add Schedule</string>
+    <string name="bus_destination">Bus Destination</string>
+    <string-array name="routes">
+        <item>Route 1</item>
+        <item>Route 2</item>
+        <item>Route 3</item>
+        <item>Route 4</item>
+    </string-array>
+</resources>
